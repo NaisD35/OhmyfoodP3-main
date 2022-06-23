@@ -26,6 +26,10 @@ h2, p, a {
   font-family: "Roboto";
 }
 
+span {
+  font-weight: 700;
+}
+
 a {
   text-decoration: none;
 }
@@ -363,9 +367,6 @@ header {
 }
 .restaurant-content {
   padding-top: 30px;
-}
-.restaurant-content span {
-  font-weight: 700;
 }
 .restaurant-content__title {
   padding-left: 20px;
