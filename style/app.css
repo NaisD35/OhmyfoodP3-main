@@ -246,6 +246,9 @@ header {
           box-shadow: 0px 10px 10px -5px #707070;
 }
 
+.function {
+  width: 100%;
+}
 .function-content {
   margin-top: 40px;
 }
@@ -360,6 +363,9 @@ header {
 }
 .restaurant-content {
   padding-top: 30px;
+}
+.restaurant-content span {
+  font-weight: 700;
 }
 .restaurant-content__title {
   padding-left: 20px;
