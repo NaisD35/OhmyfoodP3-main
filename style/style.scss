@@ -32,11 +32,6 @@ h2, p, a, {
     font-family: $mainfont;
 }
 
-span {
-    font-weight: 700;
-
-}
-
 a {
     text-decoration: none;
 }
@@ -415,6 +410,9 @@ footer {
     border-top-right-radius: 30px;
 
     &-content {
+        span {
+            font-weight: 900;   
+        }
 
         &__starters {
             animation: apparition .8s cubic-bezier(0, 0.2, 0.8, 1);

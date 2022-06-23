@@ -26,10 +26,6 @@ h2, p, a {
   font-family: "Roboto";
 }
 
-span {
-  font-weight: 900;
-}
-
 a {
   text-decoration: none;
 }
@@ -556,6 +552,9 @@ footer {
   margin-top: -60px;
   border-top-left-radius: 30px;
   border-top-right-radius: 30px;
+}
+.menu-content span {
+  font-weight: 900;
 }
 .menu-content__starters {
   -webkit-animation: apparition 0.8s cubic-bezier(0, 0.2, 0.8, 1);
