@@ -820,9 +820,6 @@ footer {
     -webkit-box-shadow: none;
             box-shadow: none;
   }
-  header a i {
-    display: none;
-  }
 
   .localisation {
     background-color: #fff;
