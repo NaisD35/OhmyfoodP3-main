@@ -772,7 +772,7 @@ footer {
 }
 @-webkit-keyframes gradientLike {
   0% {
-    opacity: 0;
+    opacity: 0.1;
     font-weight: 900;
   }
   25% {
@@ -791,7 +791,7 @@ footer {
 }
 @keyframes gradientLike {
   0% {
-    opacity: 0;
+    opacity: 0.1;
     font-weight: 900;
   }
   25% {
