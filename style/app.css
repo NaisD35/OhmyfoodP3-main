@@ -820,7 +820,7 @@ footer {
     -webkit-box-shadow: none;
             box-shadow: none;
   }
-  header i {
+  header a i {
     display: none;
   }
 
