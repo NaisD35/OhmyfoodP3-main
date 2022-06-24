@@ -500,11 +500,12 @@ footer {
                         transform: rotate(360deg);
                     }
 
-                    h2, p {
-                        white-space: nowrap;
-                        overflow: hidden;
-                        text-overflow: ellipsis;
-                    }
+                }
+                
+                h2, p {
+                    white-space: nowrap;
+                    overflow: hidden;
+                    text-overflow: ellipsis;
                 }
                 
                 &::after {
