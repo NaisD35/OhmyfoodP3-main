@@ -501,12 +501,6 @@ footer {
                     }
 
                 }
-
-                h2, p {
-                    white-space: nowrap;
-                    overflow: hidden;
-                    text-overflow: ellipsis;
-                }
                 
                 &::after {
                     content: '';
@@ -542,6 +536,9 @@ footer {
             
             h2, p {
                 margin: 0;
+                white-space: nowrap;
+                overflow: hidden;
+                text-overflow: ellipsis;
             }
 
             h2 {
