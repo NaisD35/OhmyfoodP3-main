@@ -478,9 +478,9 @@ footer {
                 position: relative;
                 height: 100%;
                 overflow: hidden;
-                width: 100%;
+                max-width: 100%;
                 display: flex;
-                justify-content: space-between;
+                justify-content: left;
                 align-items: flex-end;
                 background-color: #fff;
                 margin: 0;
@@ -497,7 +497,7 @@ footer {
                         overflow: hidden;
                         text-overflow: ellipsis;
                     }
-                    
+
                     padding-right: 70px;
                     &::after {
                         right: 0;
